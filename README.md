@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @cmetrade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-cmetrade/cmetrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇧🇷 [Português](./README_pt-BR.md) &nbsp;|&nbsp; 🇺🇸 [English](./README_en-US.md)
+
+</div>
